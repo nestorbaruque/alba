@@ -4,7 +4,30 @@ Cada mañana, a partir de la hora que elijas, aparece un amanecer en el bosque c
 
 Es gratis, no tiene cuenta ni anuncios y no envía nada a internet: todo se guarda en tu ordenador.
 
+> [!IMPORTANT]
+> **¿Estás en el móvil?** alba solo funciona en ordenador (Mac, Windows o Linux). Guarda este enlace y ábrelo desde tu ordenador: **github.com/nestorbaruque/alba**
+
+## Instalar en 3 pasos
+
+**1. Descarga** el archivo de tu ordenador desde **[la última versión](https://github.com/nestorbaruque/alba/releases/latest)** (abajo del todo, en *Assets*):
+
+| Tu ordenador | Descarga |
+|---|---|
+| **Mac** | el archivo que termina en `universal.dmg` |
+| **Windows** | el archivo que termina en `x64-setup.exe` |
+| **Linux** | el `.AppImage` |
+
+**2. Instálala:**
+
+- **Mac:** abre el `.dmg` y arrastra alba a *Aplicaciones*. La primera vez el Mac la bloquea porque no está firmada por Apple. Ábrela, pulsa *Hecho*, ve a **Ajustes del Sistema → Privacidad y seguridad**, baja hasta el final y pulsa **Abrir igualmente**. [Paso a paso con todos los detalles](#instalar-en-mac-paso-a-paso).
+- **Windows:** abre el `.exe`. Si sale "Windows protegió su PC", pulsa **Más información → Ejecutar de todas formas** y sigue el instalador.
+- **Linux:** dale permiso de ejecución al `.AppImage` (clic derecho → Propiedades → Permitir ejecutar) y ábrelo.
+
+**3. Configúrala:** escribe tu nombre, la hora y los días. Desde mañana te espera a esa hora.
+
 ![alba por la mañana](capturas/1-pantalla-completa.png)
+
+## Más información
 
 - [Descargar](#descargar)
 - [Instalar en Mac (paso a paso)](#instalar-en-mac-paso-a-paso)
