@@ -1,50 +1,80 @@
-# alba
+<p align="center">
+  <img src="capturas/icono.png" width="120" alt="Icono de alba: un sol saliendo sobre las colinas">
+</p>
 
-Cada mañana, a partir de la hora que elijas, aparece un amanecer en el bosque con un saludo, la cita del día y tu racha. Se va cuando marcas **Me he levantado**. Al lado verás el calendario del mes: en verde los días que lo has conseguido y en rojo los que no.
+<h1 align="center">alba</h1>
 
-Es gratis, no tiene cuenta ni anuncios y no envía nada a internet: todo se guarda en tu ordenador.
+<p align="center"><b>Un amanecer en tu ordenador cada mañana, hasta que marcas que te has levantado.</b><br>
+Gratis · Sin cuenta · Sin anuncios · Para Mac, Windows y Linux</p>
 
 > [!IMPORTANT]
-> **¿Estás en el móvil?** alba solo funciona en ordenador (Mac, Windows o Linux). Guarda este enlace y ábrelo desde tu ordenador: **github.com/nestorbaruque/alba**
+> **¿Estás en el móvil?** alba solo funciona en ordenador. Guarda este enlace y ábrelo desde tu ordenador: **github.com/nestorbaruque/alba**
 
-## Instalar en 3 pasos
+## 👋 Has llegado a la página de alba
 
-**1. Descarga** el archivo de tu ordenador desde **[la última versión](https://github.com/nestorbaruque/alba/releases/latest)** (abajo del todo, en *Assets*):
+Esta web se llama GitHub y es donde se guardan muchos programas gratuitos. **No necesitas crear una cuenta ni entender nada técnico.** Los archivos y carpetas que ves más arriba son el código de la app: puedes ignorarlos. Solo tienes que pulsar el botón de tu ordenador aquí abajo.
 
-| Tu ordenador | Descarga |
-|---|---|
-| **Mac** | el archivo que termina en `universal.dmg` |
-| **Windows** | el archivo que termina en `x64-setup.exe` |
-| **Linux** | el `.AppImage` |
+## ⬇️ Descargar
 
-**2. Instálala:**
+<p align="center">
+  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_universal.dmg"><img src="https://img.shields.io/badge/Descargar_para-Mac-3d6b52?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para Mac" height="44"></a>
+  &nbsp;
+  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_x64-setup.exe"><img src="https://img.shields.io/badge/Descargar_para-Windows-3d6b52?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows" height="44"></a>
+  &nbsp;
+  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_amd64.AppImage"><img src="https://img.shields.io/badge/Descargar_para-Linux-3d6b52?style=for-the-badge&logo=linux&logoColor=white" alt="Descargar para Linux" height="44"></a>
+</p>
 
-- **Mac:** abre el `.dmg` y arrastra alba a *Aplicaciones*. La primera vez el Mac la bloquea porque no está firmada por Apple. Ábrela, pulsa *Hecho*, ve a **Ajustes del Sistema → Privacidad y seguridad**, baja hasta el final y pulsa **Abrir igualmente**. [Paso a paso con todos los detalles](#instalar-en-mac-paso-a-paso).
+<p align="center">Si los botones no funcionan: <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_universal.dmg">Mac</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_x64-setup.exe">Windows</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_amd64.AppImage">Linux</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest">todas las descargas</a></p>
+
+La descarga empieza sola y el archivo va a tu carpeta **Descargas**. Sirve para cualquier Mac, con chip Apple o Intel.
+
+## 🌅 Qué es alba
+
+Cada mañana, a la hora que elijas, aparece en tu pantalla un amanecer en el bosque con un saludo con tu nombre, una cita para empezar el día y tu racha. Se va cuando marcas **Me he levantado**. La idea es sencilla: empezar el día levantándote, en lugar de mirando el móvil.
+
+- **Tu racha** de días seguidos y un **calendario** del mes, en verde los días que lo has conseguido y en rojo los que no.
+- **365 citas**, una distinta cada día del año.
+- **Tú eliges** la hora, los días de la semana y si la quieres a pantalla completa o en una ventana.
+- **Compartir tu racha** con una imagen lista para tus historias.
+- **No envía nada a internet:** todo se queda en tu ordenador.
+
+![alba por la mañana](capturas/1-pantalla-completa.png)
+
+## 🛠️ Instalar en 3 pasos
+
+**1. Descarga** el archivo con el botón de tu ordenador (arriba).
+
+**2. Ábrelo.** Tu ordenador te avisará porque alba es gratuita y no paga el certificado de Apple ni de Microsoft. Es normal:
+
+- **Mac:** abre el `.dmg` y arrastra alba a *Aplicaciones*. Ábrela, pulsa *Hecho*, ve a **Ajustes del Sistema → Privacidad y seguridad**, baja hasta el final y pulsa **Abrir igualmente**. 👉 [Paso a paso con todos los detalles](#instalar-en-mac-paso-a-paso)
 - **Windows:** abre el `.exe`. Si sale "Windows protegió su PC", pulsa **Más información → Ejecutar de todas formas** y sigue el instalador.
 - **Linux:** dale permiso de ejecución al `.AppImage` (clic derecho → Propiedades → Permitir ejecutar) y ábrelo.
 
 **3. Configúrala:** escribe tu nombre, la hora y los días. Desde mañana te espera a esa hora.
 
-![alba por la mañana](capturas/1-pantalla-completa.png)
+## ❓ Preguntas frecuentes
+
+**¿Cuesta algo?** No. Es gratis, sin anuncios y sin compras dentro.
+
+**¿Es seguro? ¿Por qué me avisa el ordenador?** Apple y Microsoft avisan de todas las apps que no pagan su certificado anual, no porque hayan encontrado nada malo. alba no se conecta a internet ni recoge datos, y su código está a la vista de cualquiera en esta página.
+
+**¿Necesito crear una cuenta en GitHub?** No. Pulsa el botón de descarga y listo.
+
+**¿Funciona en el móvil, el iPad o un Chromebook?** No. Solo en ordenadores Mac, Windows o Linux.
+
+**¿Necesita internet?** No. Solo para descargarla.
+
+**¿Y si un día no quiero que salga?** Pulsa "Hoy no" abajo del todo, o elige qué días quieres en los ajustes.
+
+**¿Cómo la quito?** Mira [Desactivar o desinstalar](#desactivar-o-desinstalar). Se quita como cualquier otra app.
 
 ## Más información
 
-- [Descargar](#descargar)
 - [Instalar en Mac (paso a paso)](#instalar-en-mac-paso-a-paso)
 - [Instalar en Windows](#instalar-en-windows)
 - [Instalar en Linux](#instalar-en-linux)
 - [Cómo se usa](#cómo-se-usa)
 - [Desactivar o desinstalar](#desactivar-o-desinstalar)
-
-## Descargar
-
-Entra en **[la última versión](../../releases/latest)** y, abajo del todo, en *Assets*, descarga el archivo de tu ordenador:
-
-| Ordenador | Archivo |
-|---|---|
-| Mac (con chip Apple o Intel) | el que termina en `universal.dmg` |
-| Windows | el que termina en `x64-setup.exe` |
-| Linux | el `.AppImage` (cualquier distribución) o el `.deb` (Ubuntu, Debian) |
 
 ## Instalar en Mac (paso a paso)
 
@@ -109,6 +139,10 @@ Tus datos (nombre, hora y días marcados) están en:
 - Mac: `~/Library/Application Support/app.alba/`
 - Windows: `%APPDATA%\app.alba\`
 - Linux: `~/.config/app.alba/` y `~/.local/share/app.alba/`
+
+## Quién la hace
+
+alba la ha hecho [@nestorbaruque](https://github.com/nestorbaruque) para dejar de empezar el día con el móvil en la mano. Si te ayuda, me alegrará saberlo.
 
 ## Para desarrolladores
 
