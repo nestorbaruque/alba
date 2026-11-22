@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>alba</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<svg class="escena" id="escena" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMax slice" aria-hidden="true"></svg>
+
+<!-- Pantalla del check -->
+<main class="vista" id="vista-check" hidden>
+  <aside class="calendario" id="calendario" aria-label="Calendario del mes"></aside>
+  <section class="contenido">
+    <div class="fecha" id="fecha"></div>
+    <h1 id="saludo">Buenos días</h1>
+    <div class="raya"></div>
+    <blockquote><p id="cita"></p><cite id="autor"></cite></blockquote>
+    <button class="check" id="check" type="button" aria-pressed="false">
+      <svg viewBox="0 0 64 64" aria-hidden="true">
+        <circle class="onda" cx="32" cy="32" r="28"/>
+        <circle class="onda" cx="32" cy="32" r="28"/>
+        <circle class="fondo-check" cx="32" cy="32" r="28"/>
+        <circle class="base" cx="32" cy="32" r="28"/>
+        <circle class="traza" cx="32" cy="32" r="28"/>
+        <path class="marca" d="M21 33l7.5 7.5L44 25"/>
+      </svg>
+      <span class="texto-check"><span>Me he levantado</span><span>Hecho. Buen día.</span></span>
+    </button>
+    <div class="racha" id="racha"></div>
+  </section>
+  <button class="hoy-no" id="hoy-no" type="button">Hoy no</button>
+  <div class="aviso-prueba" id="aviso-prueba" hidden>Modo prueba: no cuenta para la racha</div>
+</main>
+
+<!-- Ajustes (primer arranque y "Cambiar nombre y hora") -->
+<!-- Racha a cualquier hora (no cuenta como check) -->
+<main class="vista" id="vista-racha" hidden>
+  <section class="racha-ventana">
+    <div class="etiqueta-racha">TU RACHA</div>
+    <div class="numero" id="r-numero">0</div>
+    <div class="unidad" id="r-unidad">días seguidos</div>
+    <div class="estado-hoy" id="r-estado"></div>
+    <div class="total" id="r-total"></div>
+    <div class="calendario" id="r-calendario" aria-label="Calendario del mes"></div>
+    <div class="botones">
+      <button type="button" class="boton principal" id="compartir">Compartir mi racha</button>
+      <button type="button" class="boton" id="guardar">Guardar imagen</button>
+    </div>
+    <div class="aviso-imagen" id="aviso-imagen" role="status"></div>
+  </section>
+  <button type="button" class="enlace-ajustes" id="ir-ajustes">Ajustes</button>
+</main>
+
+<main class="vista" id="vista-ajustes" hidden>
+  <form class="tarjeta" id="form">
+    <h1>alba</h1>
+    <p class="intro">Cada mañana, a partir de la hora que elijas, aparecerá un amanecer con la cita del día. Se va cuando marcas <em>Me he levantado</em>.</p>
+    <label>¿Cómo te llamas?
+      <input id="nombre" name="nombre" maxlength="40" autocomplete="given-name" required placeholder="Tu nombre">
+    </label>
+    <label>¿A partir de qué hora?
+      <input id="hora" name="hora" type="time" value="08:00" required>
+    </label>
+    <fieldset class="dias">
+      <legend>¿Qué días?</legend>
+      <label><input type="checkbox" name="dia" value="0" checked><span>L</span></label>
+      <label><input type="checkbox" name="dia" value="1" checked><span>M</span></label>
+      <label><input type="checkbox" name="dia" value="2" checked><span>X</span></label>
+      <label><input type="checkbox" name="dia" value="3" checked><span>J</span></label>
+      <label><input type="checkbox" name="dia" value="4" checked><span>V</span></label>
+      <label><input type="checkbox" name="dia" value="5" checked><span>S</span></label>
+      <label><input type="checkbox" name="dia" value="6" checked><span>D</span></label>
+      <p class="aviso-dias" id="aviso-dias" hidden>Elige al menos un día.</p>
+    </fieldset>
+    <fieldset>
+      <legend>¿Cómo quieres que aparezca?</legend>
+      <label class="opcion"><input type="radio" name="modo" value="completa" checked> Pantalla completa</label>
+      <label class="opcion"><input type="radio" name="modo" value="ventana"> En una ventana</label>
+    </fieldset>
+    <button class="guardar" type="submit">Guardar</button>
+    <p class="nota">Vive junto al reloj (en el Mac, en la barra de menús) con un pequeño sol. Desde ahí (o abriendo alba otra vez) puedes ver tu racha, marcar el día antes de tiempo, probarla, cambiar estos ajustes o elegir <strong>Desactivar y salir</strong> para que deje de abrirse. El día que la instalas no aparece.</p>
+  </form>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

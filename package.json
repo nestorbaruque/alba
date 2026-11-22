@@ -1,0 +1,12 @@
+{
+  "name": "alba",
+  "version": "1.0.0",
+  "description": "Un amanecer cada mañana hasta que marcas que te has levantado",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.12.6"
+  },
+  "private": true
+}

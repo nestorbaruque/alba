@@ -1,0 +1,366 @@
+# Una cita por línea: frase<TAB>autor. La app usa la del día del año.
+¿Qué es poesía? ¿Y tú me lo preguntas? Poesía… eres tú.	Gustavo Adolfo Bécquer
+Porque era él, porque era yo.	Michel de Montaigne
+Confía en ti mismo: todo corazón vibra con esa cuerda de hierro.	Ralph Waldo Emerson
+Amarse a uno mismo es el comienzo de un romance para toda la vida.	Oscar Wilde
+La mente es su propio lugar, y en sí misma puede hacer un cielo del infierno y un infierno del cielo.	John Milton
+Los errores de un genio son voluntarios y son los portales del descubrimiento.	James Joyce
+Aprender es eso: de pronto entiendes algo que has entendido toda tu vida, pero de una manera nueva.	Doris Lessing
+El corazón tiene razones que la razón no conoce.	Blaise Pascal
+Lo que más temo es el miedo.	Michel de Montaigne
+Quiero hacer contigo lo que la primavera hace con los cerezos.	Pablo Neruda
+Solo amanece el día para el que estamos despiertos.	Henry David Thoreau
+Uno debería, cada día, escuchar al menos una pequeña canción, leer un buen poema, ver un buen cuadro y, si es posible, decir algunas palabras sensatas.	Johann Wolfgang von Goethe
+Dame la mano y danzaremos.	Gabriela Mistral
+Paciencia y barajar.	Miguel de Cervantes
+Todas las cartas de amor son ridículas.	Fernando Pessoa
+Esa es otra historia y debe ser contada en otra ocasión.	Michael Ende
+El olvido es la única venganza y el único perdón.	Jorge Luis Borges
+—¿Podrías decirme qué camino debo tomar? —Eso depende mucho de adónde quieras ir.	Lewis Carroll
+La atención es el comienzo de la devoción.	Mary Oliver
+Saber olvidar: más es dicha que arte.	Baltasar Gracián
+¡Intelijencia, dame el nombre exacto de las cosas!	Juan Ramón Jiménez
+Fui a los bosques porque quería vivir deliberadamente.	Henry David Thoreau
+Ver un mundo en un grano de arena y un cielo en una flor silvestre.	William Blake
+No nos perturban las cosas, sino las opiniones que tenemos sobre las cosas.	Epicteto
+El tiempo es la sustancia de que estoy hecho.	Jorge Luis Borges
+El amor no se queda ahí, como una piedra; hay que hacerlo, como el pan, rehacerlo siempre, hacerlo nuevo.	Ursula K. Le Guin
+Y así seguimos adelante, botes contra la corriente, arrastrados incesantemente hacia el pasado.	F. Scott Fitzgerald
+Que el verso sea como una llave que abra mil puertas.	Vicente Huidobro
+Espero que cometas errores. Porque si cometes errores, estás haciendo cosas nuevas.	Neil Gaiman
+No corras, ve despacio, que adonde tienes que ir es a ti solo.	Juan Ramón Jiménez
+¿Cómo te amo? Déjame contar las maneras.	Elizabeth Barrett Browning
+La gota horada la piedra.	Ovidio
+Las cosas no cambian; nosotros cambiamos.	Henry David Thoreau
+Atrévete a saber.	Horacio
+Si derramas lágrimas cuando echas de menos el sol, también te pierdes las estrellas.	Rabindranath Tagore
+Caminante, no hay camino, se hace camino al andar.	Antonio Machado
+No dejaremos de explorar, y al final de nuestra exploración llegaremos adonde empezamos y conoceremos el lugar por primera vez.	T. S. Eliot
+Cada día es un viaje, y el viaje mismo es el hogar.	Matsuo Bashō
+Mientras se aplaza, la vida pasa.	Séneca
+La vida se encoge o se expande en proporción al coraje de cada uno.	Anaïs Nin
+Paciencia y tiempo hacen más que fuerza y rabia.	Jean de La Fontaine
+He hecho esta carta más larga de lo habitual porque no he tenido tiempo de hacerla más corta.	Blaise Pascal
+Vuestros hijos no son vuestros hijos.	Khalil Gibran
+No tienes que ser bueno. Solo tienes que dejar que el suave animal de tu cuerpo ame lo que ama.	Mary Oliver
+Despacito y buena letra: el hacer las cosas bien importa más que el hacerlas.	Antonio Machado
+Nadie es inútil en este mundo mientras aligere la carga de otro.	Charles Dickens
+Cada uno tiene su pasado encerrado dentro como las hojas de un libro que se sabe de memoria.	Virginia Woolf
+La belleza salvará el mundo.	Fiódor Dostoievski
+Todos los pensamientos verdaderamente grandes se conciben caminando.	Friedrich Nietzsche
+Que toda la vida es sueño, y los sueños, sueños son.	Pedro Calderón de la Barca
+La vida no es una serie de faroles dispuestos simétricamente; la vida es un halo luminoso.	Virginia Woolf
+Vive ahora las preguntas.	Rainer Maria Rilke
+Yo no estimo tesoros ni riquezas; y así, siempre me causa más contento poner riquezas en mi entendimiento que no mi entendimiento en las riquezas.	Sor Juana Inés de la Cruz
+El mundo está bien hecho.	Jorge Guillén
+Y me quedan millas por recorrer antes de dormir.	Robert Frost
+Los suspiros son aire y van al aire. Las lágrimas son agua y van al mar.	Gustavo Adolfo Bécquer
+La soledad es el fondo último de la condición humana.	Octavio Paz
+Ten paciencia con todo lo que está sin resolver en tu corazón y trata de amar las preguntas mismas.	Rainer Maria Rilke
+Solo en el silencio la palabra, solo en la oscuridad la luz, solo en la muerte la vida.	Ursula K. Le Guin
+Lo mejor es enemigo de lo bueno.	Voltaire
+Por mi parte, viajo no para ir a alguna parte, sino por ir. Viajo por viajar.	Robert Louis Stevenson
+Dos caminos divergían en un bosque, y yo tomé el menos transitado, y eso marcó toda la diferencia.	Robert Frost
+La música expresa lo que no puede decirse y aquello sobre lo que es imposible permanecer en silencio.	Victor Hugo
+Al despertar esta mañana, sonrío. Tengo por delante veinticuatro horas nuevas.	Thich Nhat Hanh
+La verdadera generosidad con el futuro consiste en darlo todo al presente.	Albert Camus
+Ver lo que uno tiene delante de las narices requiere una lucha constante.	George Orwell
+La poesía es un arma cargada de futuro.	Gabriel Celaya
+Al hombre se le puede arrebatar todo salvo una cosa: la última de las libertades humanas, elegir su actitud ante cualquier circunstancia.	Viktor Frankl
+Una mujer debe tener dinero y una habitación propia si va a escribir ficción.	Virginia Woolf
+A partir de cierto punto ya no hay retorno. Ese es el punto que hay que alcanzar.	Franz Kafka
+La experiencia no es lo que te sucede, sino lo que haces con lo que te sucede.	Aldous Huxley
+Donde una puerta se cierra, otra se abre.	Miguel de Cervantes
+Si un hombre no marcha al paso de sus compañeros, quizá sea porque oye un tambor diferente.	Henry David Thoreau
+El niño es el padre del hombre.	William Wordsworth
+No es un hombre más que otro si no hace más que otro.	Miguel de Cervantes
+La belleza es verdad, la verdad belleza.	John Keats
+Quienes no creen en la magia nunca la encontrarán.	Roald Dahl
+La risa es el sol que ahuyenta el invierno del rostro humano.	Victor Hugo
+Qué maravilloso es que nadie tenga que esperar ni un solo momento antes de empezar a mejorar el mundo.	Ana Frank
+La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.	Gabriel García Márquez
+Nunca encontré un compañero tan sociable como la soledad.	Henry David Thoreau
+Al amanecer, cuando te cueste levantarte, ten presente: me levanto para hacer obra de hombre.	Marco Aurelio
+No es necesario que salgas de casa. Quédate en tu mesa y escucha. El mundo se te ofrecerá para que lo desenmascares.	Franz Kafka
+El valor es resistencia al miedo, dominio del miedo, no ausencia de miedo.	Mark Twain
+Si solo lees los libros que todo el mundo lee, solo puedes pensar lo que todo el mundo piensa.	Haruki Murakami
+Defender la alegría como una trinchera.	Mario Benedetti
+Si has construido castillos en el aire, tu trabajo no se pierde; ahí es donde deben estar. Ahora pon los cimientos debajo.	Henry David Thoreau
+Después de todo, mañana será otro día.	Margaret Mitchell
+El curso del verdadero amor nunca fue fácil.	William Shakespeare
+La esperanza es esa cosa con plumas que se posa en el alma.	Emily Dickinson
+Hay que cultivar nuestro jardín.	Voltaire
+La diligencia es madre de la buena ventura.	Miguel de Cervantes
+Nuestras dudas son traidoras y nos hacen perder el bien que podríamos ganar, por miedo a intentarlo.	William Shakespeare
+En medio del invierno aprendí por fin que había en mí un verano invencible.	Albert Camus
+Ya no sé lo que busco eternamente en la tierra, en el aire y en el cielo.	Rosalía de Castro
+Mi oficio y mi arte es vivir.	Michel de Montaigne
+Tengo en mí todos los sueños del mundo.	Fernando Pessoa
+Ningún viento es favorable para quien no sabe a qué puerto se dirige.	Séneca
+Y ahora que no tienes que ser perfecto, puedes ser bueno.	John Steinbeck
+Andábamos sin buscarnos, pero sabiendo que andábamos para encontrarnos.	Julio Cortázar
+El alma se tiñe del color de sus pensamientos.	Marco Aurelio
+No soy ningún pájaro, y ninguna red me atrapa.	Charlotte Brontë
+Vida, nada me debes; vida, estamos en paz.	Amado Nervo
+Todas las familias felices se parecen; cada familia infeliz lo es a su manera.	León Tolstói
+Empieza por el principio, sigue hasta llegar al final, y entonces para.	Lewis Carroll
+Ama solo lo que te sucede y lo que te está destinado.	Marco Aurelio
+Un viaje es como un matrimonio: la forma segura de equivocarse es pensar que lo controlas.	John Steinbeck
+Sé fiel a ti mismo.	William Shakespeare
+Nada contribuye tanto a tranquilizar la mente como un propósito firme.	Mary Shelley
+Leed para vivir.	Gustave Flaubert
+¡Qué alegría más alta: vivir en los pronombres!	Pedro Salinas
+No es que tengamos poco tiempo, sino que perdemos mucho.	Séneca
+A la tarde te examinarán en el amor.	San Juan de la Cruz
+Sean cuales sean las almas que tenemos, la suya y la mía están hechas de lo mismo.	Emily Brontë
+Presta atención. Asómbrate. Cuéntalo.	Mary Oliver
+Escribe en tu corazón que cada día es el mejor día del año.	Ralph Waldo Emerson
+La atención es la forma más rara y pura de la generosidad.	Simone Weil
+Aun en sueños no se pierde el hacer bien.	Pedro Calderón de la Barca
+Cuando salgas de la tormenta, no serás la misma persona que entró en ella.	Haruki Murakami
+Solo conecta.	E. M. Forster
+Que nadie se engañe: solo se consigue la sencillez a través de mucho trabajo.	Clarice Lispector
+Para ser grande, sé entero.	Fernando Pessoa
+Es mejor haber amado y perdido que no haber amado nunca.	Alfred Tennyson
+Dime, ¿qué piensas hacer con tu única, salvaje y preciosa vida?	Mary Oliver
+Los años enseñan mucho que los días nunca supieron.	Ralph Waldo Emerson
+Acostarse temprano y levantarse temprano hace al hombre sano, rico y sabio.	Benjamin Franklin
+La mayor cosa del mundo es saber ser de uno mismo.	Michel de Montaigne
+Estamos hechos de la misma materia que los sueños.	William Shakespeare
+Si tienes un jardín y una biblioteca, tienes todo lo que necesitas.	Cicerón
+Si he perdido la vida, el tiempo, todo lo que tiré, como un anillo, al agua, si he perdido la voz en la maleza, me queda la palabra.	Blas de Otero
+En todo comienzo reside un encanto que nos protege y nos ayuda a vivir.	Hermann Hesse
+Como no sé cuándo llegará el amanecer, abro todas las puertas.	Emily Dickinson
+No se recuerdan los días, se recuerdan los momentos.	Cesare Pavese
+Hoy es siempre todavía.	Antonio Machado
+El pájaro rompe el cascarón. El cascarón es el mundo. Quien quiere nacer tiene que destruir un mundo.	Hermann Hesse
+Al que madruga, Dios le ayuda.	Refranero español
+Soy amplio, contengo multitudes.	Walt Whitman
+Se miente más de la cuenta por falta de fantasía: también la verdad se inventa.	Antonio Machado
+Venceréis, pero no convenceréis.	Miguel de Unamuno
+¿No muere todo, al final, y demasiado pronto?	Mary Oliver
+Debe haber otro modo de ser humano y libre.	Rosario Castellanos
+Hay años que preguntan y años que responden.	Zora Neale Hurston
+Lo bueno, si breve, dos veces bueno.	Baltasar Gracián
+Lo esencial es invisible a los ojos.	Antoine de Saint-Exupéry
+La lucha por llegar a las cumbres basta para llenar un corazón humano.	Albert Camus
+Porque veo al final de mi rudo camino que yo fui el arquitecto de mi propio destino.	Amado Nervo
+Quien tiene un porqué para vivir puede soportar casi cualquier cómo.	Friedrich Nietzsche
+Que la vida iba en serio uno lo empieza a comprender más tarde.	Jaime Gil de Biedma
+He medido mi vida con cucharillas de café.	T. S. Eliot
+Fue el tiempo que pasaste con tu rosa lo que la hizo tan importante.	Antoine de Saint-Exupéry
+Bien está lo que bien acaba.	William Shakespeare
+Yo, que me figuraba el Paraíso bajo la especie de una biblioteca.	Jorge Luis Borges
+El otoño es una segunda primavera en la que cada hoja es una flor.	Albert Camus
+Es bueno tener un final hacia el que viajar; pero al final, lo que importa es el viaje.	Ursula K. Le Guin
+Si tu vida cotidiana te parece pobre, no la culpes a ella; cúlpate a ti mismo de no ser lo bastante poeta para extraer sus riquezas.	Rainer Maria Rilke
+Todas las personas mayores fueron al principio niños, aunque pocas lo recuerdan.	Antoine de Saint-Exupéry
+Cuando juego con mi gata, ¿quién sabe si no es ella la que se divierte conmigo más que yo con ella?	Michel de Montaigne
+Siente el pensamiento, piensa el sentimiento.	Miguel de Unamuno
+Nunca hay que pensar en toda la calle de una vez; solo en el siguiente paso, la siguiente inspiración, la siguiente barrida.	Michael Ende
+Las nubes flotan en mi vida, ya no para traer lluvia ni anunciar tormenta, sino para dar color a mi cielo de ocaso.	Rabindranath Tagore
+No hay nada, absolutamente nada, que valga tanto la pena como simplemente andar trasteando en barcas.	Kenneth Grahame
+Un viaje de mil leguas comienza con un solo paso.	Lao Tse
+Pisa con cuidado, porque pisas mis sueños.	W. B. Yeats
+El camino del exceso lleva al palacio de la sabiduría.	William Blake
+No actúes como si fueras a vivir diez mil años.	Marco Aurelio
+Pese a todo, sigo creyendo en la bondad de las personas.	Ana Frank
+¿Qué sé yo?	Michel de Montaigne
+Durante mucho tiempo me acosté temprano.	Marcel Proust
+Haz lo correcto. Gratificará a algunos y asombrará al resto.	Mark Twain
+Creo que no nos quedamos ciegos, creo que estamos ciegos.	José Saramago
+El único viaje verdadero no sería ir hacia nuevos paisajes, sino tener otros ojos.	Marcel Proust
+Si las puertas de la percepción se depurasen, todo aparecería ante el hombre tal cual es: infinito.	William Blake
+Me celebro y me canto.	Walt Whitman
+Cava dentro de ti. Dentro está la fuente del bien, que puede brotar siempre si siempre cavas.	Marco Aurelio
+La belleza no es más que el comienzo de lo terrible.	Rainer Maria Rilke
+Amar es desnudarse de los nombres.	Octavio Paz
+Aun así, me levanto.	Maya Angelou
+Si puedes encontrarte con el triunfo y el desastre y tratar a esos dos impostores de la misma manera…	Rudyard Kipling
+Morir será una aventura tremendamente grande.	J. M. Barrie
+Moneda que está en la mano quizá se deba guardar; la monedita del alma se pierde si no se da.	Antonio Machado
+Todo nos es ajeno; solo el tiempo es nuestro.	Séneca
+La libertad, Sancho, es uno de los más preciosos dones que a los hombres dieron los cielos.	Miguel de Cervantes
+Luchar, buscar, encontrar y no rendirse.	Alfred Tennyson
+Hay que imaginarse a Sísifo feliz.	Albert Camus
+Para mí, cada hora de luz y de oscuridad es un milagro.	Walt Whitman
+No entres dócilmente en esa buena noche.	Dylan Thomas
+De las cosas, unas dependen de nosotros y otras no.	Epicteto
+Para la libertad sangro, lucho, pervivo.	Miguel Hernández
+A veces he llegado a creer hasta seis cosas imposibles antes del desayuno.	Lewis Carroll
+No hay mayor agonía que llevar dentro una historia no contada.	Maya Angelou
+Gástalo todo, úsalo, juégatelo, piérdelo, todo, enseguida, cada vez.	Annie Dillard
+Que otros se jacten de las páginas que han escrito; a mí me enorgullecen las que he leído.	Jorge Luis Borges
+La amistad nace en el momento en que alguien le dice a otro: «¿Qué? ¿Tú también? Creía que era el único».	C. S. Lewis
+Cada vez que la vida nos llame, el corazón debe estar listo para despedirse y empezar de nuevo.	Hermann Hesse
+El que lee mucho y anda mucho, ve mucho y sabe mucho.	Miguel de Cervantes
+Era el mejor de los tiempos, era el peor de los tiempos.	Charles Dickens
+El mundo es un buen lugar y vale la pena luchar por él.	Ernest Hemingway
+Sí, dije sí, quiero sí.	James Joyce
+Explicar con palabras de este mundo que partió de mí un barco llevándome.	Alejandra Pizarnik
+Nada grande se ha conseguido jamás sin entusiasmo.	Ralph Waldo Emerson
+Entre los pucheros anda el Señor.	Teresa de Jesús
+Simplifica, simplifica.	Henry David Thoreau
+No hay amor a la vida sin desesperación de vivir.	Albert Camus
+El mundo nunca morirá por falta de maravillas, sino por falta de asombro.	G. K. Chesterton
+La vida es una aventura atrevida o no es nada.	Helen Keller
+Nadie es la patria, pero todos lo somos.	Jorge Luis Borges
+Cuando bailo, bailo; cuando duermo, duermo.	Michel de Montaigne
+No esperes al Juicio Final. Tiene lugar cada día.	Albert Camus
+Crees que tu dolor no tiene precedentes en la historia del mundo, y entonces lees.	James Baldwin
+El amor todo lo vence.	Virgilio
+Viajar es fatal para los prejuicios.	Mark Twain
+Llega a ser el que eres.	Friedrich Nietzsche
+Todos estamos en la cuneta, pero algunos miramos las estrellas.	Oscar Wilde
+Lo que se interpone en el camino se convierte en el camino.	Marco Aurelio
+Dentro de nosotros hay una cosa que no tiene nombre, y esa cosa es lo que somos.	José Saramago
+Quien conoce a los demás es sabio; quien se conoce a sí mismo es iluminado.	Lao Tse
+Hay fuegos que arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende.	Eduardo Galeano
+El que no inventa no vive.	Ana María Matute
+No hay barrera, cerradura ni cerrojo que puedas imponer a la libertad de mi mente.	Virginia Woolf
+Amar no es mirarse el uno al otro, es mirar juntos en la misma dirección.	Antoine de Saint-Exupéry
+Las palabras son acontecimientos: hacen cosas, cambian cosas.	Ursula K. Le Guin
+Pon lo que eres en lo mínimo que hagas.	Fernando Pessoa
+Retírate dentro de ti mismo.	Marco Aurelio
+Vivir es tan asombroso que deja poco tiempo para otra cosa.	Emily Dickinson
+Nadie puede aconsejarte ni ayudarte. Solo hay un camino: entra en ti mismo.	Rainer Maria Rilke
+La experiencia es el nombre que todos dan a sus errores.	Oscar Wilde
+La luz es la mano izquierda de la oscuridad.	Ursula K. Le Guin
+Todo lo que tenemos que decidir es qué hacer con el tiempo que se nos ha dado.	J. R. R. Tolkien
+No tengo miedo de las tormentas, porque estoy aprendiendo a gobernar mi barco.	Louisa May Alcott
+No temáis.	Seamus Heaney
+Di toda la verdad, pero dila sesgada.	Emily Dickinson
+La cura para todo es el agua salada: el sudor, las lágrimas o el mar.	Isak Dinesen
+Errar es humano; perdonar, divino.	Alexander Pope
+Nunca entiendes de verdad a una persona hasta que consideras las cosas desde su punto de vista.	Harper Lee
+Prefiero el ridículo de escribir poemas al ridículo de no escribirlos.	Wisława Szymborska
+Viajar con esperanza es mejor que llegar.	Robert Louis Stevenson
+Quien ha empezado tiene hecha la mitad.	Horacio
+No basta saber, también hay que aplicar; no basta querer, también hay que hacer.	Johann Wolfgang von Goethe
+El camino sigue y sigue desde la puerta donde empezó.	J. R. R. Tolkien
+Hay, hermanos, muchísimo que hacer.	César Vallejo
+Tanto dolor se agolpa en mi costado, que por doler me duele hasta el aliento.	Miguel Hernández
+Hay dos maneras de difundir la luz: ser la vela o el espejo que la refleja.	Edith Wharton
+Si esto no es agradable, no sé qué lo es.	Kurt Vonnegut
+Ser culto es el único modo de ser libre.	José Martí
+Bueno es saber que los vasos nos sirven para beber; lo malo es que no sabemos para qué sirve la sed.	Antonio Machado
+Si hay un libro que quieres leer pero aún no se ha escrito, entonces debes escribirlo.	Toni Morrison
+La señora Dalloway dijo que ella misma compraría las flores.	Virginia Woolf
+Aprovecha el día y no te fíes del mañana.	Horacio
+Hay una manera de contribuir a la protección de la humanidad, y es no resignarse.	Ernesto Sabato
+Los verdaderos paraísos son los paraísos que hemos perdido.	Marcel Proust
+La sabiduría nos llega cuando ya no sirve para nada.	Gabriel García Márquez
+Una cosa bella es una alegría para siempre.	John Keats
+Quien es feliz hará felices a los demás.	Ana Frank
+No se nace mujer: se llega a serlo.	Simone de Beauvoir
+¿Qué es la vida? Un frenesí. ¿Qué es la vida? Una ilusión.	Pedro Calderón de la Barca
+Yo es otro.	Arthur Rimbaud
+Mientras tenga preguntas y no haya respuesta, continuaré escribiendo.	Clarice Lispector
+Vivir es lo más raro del mundo. La mayoría de la gente existe, eso es todo.	Oscar Wilde
+La mariposa no cuenta meses sino momentos, y tiene tiempo suficiente.	Rabindranath Tagore
+Los dos guerreros más poderosos son la paciencia y el tiempo.	León Tolstói
+Inventa mundos nuevos y cuida tu palabra.	Vicente Huidobro
+Eres responsable para siempre de lo que has domesticado.	Antoine de Saint-Exupéry
+La paciencia todo lo alcanza.	Teresa de Jesús
+Sé ordenado y regular en tu vida, para que puedas ser violento y original en tu obra.	Gustave Flaubert
+El retirarse no es huir.	Miguel de Cervantes
+Cómo pasamos nuestros días es, por supuesto, cómo pasamos nuestras vidas.	Annie Dillard
+Verde que te quiero verde.	Federico García Lorca
+Escribir es intentar saber qué escribiríamos si escribiésemos.	Marguerite Duras
+Una coherencia necia es el duende de las mentes pequeñas.	Ralph Waldo Emerson
+Hoy la tierra y los cielos me sonríen; hoy llega al fondo de mi alma el sol.	Gustavo Adolfo Bécquer
+Llegó con tres heridas: la del amor, la de la muerte, la de la vida.	Miguel Hernández
+No todo lo que se enfrenta puede cambiarse, pero nada puede cambiarse hasta que se enfrenta.	James Baldwin
+Muy poco se necesita para hacer una vida feliz.	Marco Aurelio
+Ningún día se repite, no hay dos noches iguales, ni dos besos iguales, ni dos miradas iguales.	Wisława Szymborska
+El mundo entero es un escenario.	William Shakespeare
+Cada uno es artífice de su ventura.	Miguel de Cervantes
+El pasado nunca muere. Ni siquiera ha pasado.	William Faulkner
+Respiré hondo y escuché el viejo alarde de mi corazón: soy, soy, soy.	Sylvia Plath
+Sabemos lo que somos, pero no lo que podemos ser.	William Shakespeare
+El trabajo es amor hecho visible.	Khalil Gibran
+Mi táctica es mirarte, aprender cómo sos, quererte como sos.	Mario Benedetti
+El que sabe no habla; el que habla no sabe.	Lao Tse
+Fundar bibliotecas era como construir aún más graneros públicos.	Marguerite Yourcenar
+Los árboles son santuarios.	Hermann Hesse
+La mayoría de los hombres llevan vidas de silenciosa desesperación.	Henry David Thoreau
+Hay golpes en la vida, tan fuertes… ¡Yo no sé!	César Vallejo
+No siempre fui adonde pretendía ir, pero creo que acabé donde necesitaba estar.	Douglas Adams
+El tiempo no es más que el arroyo en el que voy a pescar.	Henry David Thoreau
+Un hombre puede ser destruido, pero no derrotado.	Ernest Hemingway
+Hay que estar siempre ebrio. De vino, de poesía o de virtud, como queráis.	Charles Baudelaire
+No se puede pensar bien, amar bien, dormir bien, si uno no ha comido bien.	Virginia Woolf
+Los seres humanos no nacen para siempre el día en que sus madres los alumbran, sino que la vida los obliga otra vez y muchas veces a parirse a sí mismos.	Gabriel García Márquez
+Todo pasa y todo queda, pero lo nuestro es pasar, pasar haciendo caminos.	Antonio Machado
+Nada sucede dos veces.	Wisława Szymborska
+Quizá todos los dragones de nuestra vida sean princesas que solo esperan vernos una vez hermosos y valientes.	Rainer Maria Rilke
+El amor que mueve el sol y las demás estrellas.	Dante Alighieri
+El viaje no acaba nunca. Solo los viajeros acaban.	José Saramago
+Cualquier destino, por largo y complicado que sea, consta en realidad de un solo momento: el momento en que el hombre sabe para siempre quién es.	Jorge Luis Borges
+¿Tu verdad? No, la Verdad, y ven conmigo a buscarla. La tuya, guárdatela.	Antonio Machado
+Ayer se fue; mañana no ha llegado; hoy se está yendo sin parar un punto.	Francisco de Quevedo
+Nada te turbe, nada te espante; todo se pasa.	Teresa de Jesús
+La fe es el pájaro que siente la luz y canta cuando el alba aún está oscura.	Rabindranath Tagore
+Toda la desdicha de los hombres viene de una sola cosa: no saber quedarse tranquilos en una habitación.	Blaise Pascal
+Es un asunto peligroso, Frodo, salir de tu puerta.	J. R. R. Tolkien
+Dejad que haya espacios en vuestra unión.	Khalil Gibran
+Juventud, divino tesoro, ¡ya te vas para no volver!	Rubén Darío
+Soy del tamaño de lo que veo, y no del tamaño de mi estatura.	Fernando Pessoa
+¡No soy nadie! ¿Quién eres tú?	Emily Dickinson
+Yo soy yo y mi circunstancia.	José Ortega y Gasset
+Es tan corto el amor, y es tan largo el olvido.	Pablo Neruda
+Sufrimos más a menudo en la imaginación que en la realidad.	Séneca
+Debes cambiar tu vida.	Rainer Maria Rilke
+Cultivo una rosa blanca, en junio como en enero.	José Martí
+No hay nada bueno ni malo; el pensamiento lo hace así.	William Shakespeare
+No todos los que vagan están perdidos.	J. R. R. Tolkien
+Me gustas cuando callas porque estás como ausente.	Pablo Neruda
+Lo que embellece al desierto es que esconde un pozo en algún lugar.	Antoine de Saint-Exupéry
+Pueden porque creen que pueden.	Virgilio
+Platero es pequeño, peludo, suave.	Juan Ramón Jiménez
+Tú eres lo mejor que tienes.	Toni Morrison
+Quien no conoce lenguas extranjeras no sabe nada de la suya.	Johann Wolfgang von Goethe
+No sé exactamente qué es una oración. Sé cómo prestar atención.	Mary Oliver
+No pierdas más tiempo discutiendo cómo debe ser un hombre bueno. Sé uno.	Marco Aurelio
+El secreto de una buena vejez no es otra cosa que un pacto honrado con la soledad.	Gabriel García Márquez
+Ningún hombre es una isla.	John Donne
+Un libro debe ser el hacha que rompa el mar helado que llevamos dentro.	Franz Kafka
+Mis primeras patrias fueron los libros.	Marguerite Yourcenar
+Llénate los ojos de asombro, vive como si fueras a caer muerto en diez segundos.	Ray Bradbury
+Nuestra grande y gloriosa obra maestra es vivir como es debido.	Michel de Montaigne
+Lo pasado es prólogo.	William Shakespeare
+Todo lo que tienes que hacer es escribir una frase verdadera.	Ernest Hemingway
+No hay encanto igual a la ternura del corazón.	Jane Austen
+Polvo serán, mas polvo enamorado.	Francisco de Quevedo
+Hay que llevar todavía un caos dentro de sí para poder dar a luz una estrella danzarina.	Friedrich Nietzsche
+Sé pensar, sé esperar, sé ayunar.	Hermann Hesse
+Un horario defiende del caos y del capricho.	Annie Dillard
+Esto es amor: quien lo probó lo sabe.	Lope de Vega
+Un viejo estanque; salta una rana: el sonido del agua.	Matsuo Bashō
+Algún día tendrás edad suficiente para volver a leer cuentos de hadas.	C. S. Lewis
+Toda la sabiduría humana se resume en estas dos palabras: esperar y tener esperanza.	Alejandro Dumas
+Un clásico es un libro que nunca termina de decir lo que tiene que decir.	Italo Calvino
+Y yo me iré. Y se quedarán los pájaros cantando.	Juan Ramón Jiménez
+Habito la posibilidad.	Emily Dickinson
+Hay que salir de la isla para ver la isla.	José Saramago
+Sin música, la vida sería un error.	Friedrich Nietzsche
+Hay que ser absolutamente moderno.	Arthur Rimbaud
+Inténtalo otra vez. Fracasa otra vez. Fracasa mejor.	Samuel Beckett
+Que el amor es todo lo que hay es todo lo que sabemos del amor.	Emily Dickinson
+En tres palabras puedo resumir todo lo que he aprendido sobre la vida: sigue su curso.	Robert Frost
+Usted sabe que puede contar conmigo, no hasta dos o hasta diez, sino contar conmigo.	Mario Benedetti
+Muchas de las cosas que necesitamos pueden esperar; los niños no pueden.	Gabriela Mistral
+Empieza ya a vivir, y cuenta cada día como una vida aparte.	Séneca
+Si llega el invierno, ¿puede estar lejos la primavera?	Percy Bysshe Shelley
+La mañana, que es la estación más memorable del día, es la hora del despertar.	Henry David Thoreau
+Los hombres, mientras enseñan, aprenden.	Séneca
+Declaro, después de todo, que no hay placer como el de leer.	Jane Austen
+Reclámate a ti mismo para ti.	Séneca
+Debemos amarnos o morir.	W. H. Auden
+¿Para qué vivimos, si no es para hacernos la vida menos difícil los unos a los otros?	George Eliot
+Gris es toda teoría, y verde el árbol dorado de la vida.	Johann Wolfgang von Goethe
+Buscar y saber reconocer quién y qué, en medio del infierno, no es infierno, y hacer que dure, y darle espacio.	Italo Calvino
+Un hombre es rico en proporción al número de cosas que puede permitirse dejar estar.	Henry David Thoreau
+Deja que todo te suceda: lo bello y lo terrible. Solo sigue adelante. Ningún sentimiento es definitivo.	Rainer Maria Rilke
+Somos lo que fingimos ser, así que debemos tener cuidado con lo que fingimos ser.	Kurt Vonnegut
+He cometido el peor de los pecados que un hombre puede cometer. No he sido feliz.	Jorge Luis Borges
