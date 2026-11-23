@@ -1,6 +1,6 @@
 {
   "name": "alba",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Un amanecer cada mañana hasta que marcas que te has levantado",
   "scripts": {
     "tauri": "tauri"

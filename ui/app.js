@@ -122,7 +122,7 @@ async function iniciarCheck() {
   $("cita").textContent = "«" + e.cita + "»";
   $("autor").textContent = e.autor;
   $("racha").append(lineaRacha(e.racha), lineaRacha(e.racha + 1, true));
-  pintarCalendario($("calendario"), e, true);
+  pintarCalendario($("calendario"), e, false);
 
   let hecho = false;
   const marcar = async () => {

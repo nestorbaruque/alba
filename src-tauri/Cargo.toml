@@ -1,6 +1,6 @@
 [package]
 name = "alba"
-version = "1.0.0"
+version = "1.1.0"
 description = "Un amanecer a pantalla completa cada mañana hasta que marcas que te has levantado"
 edition = "2021"
 
@@ -27,3 +27,6 @@ opt-level = "s"
 lto = true
 codegen-units = 1
 strip = true
+
+[target.'cfg(target_os = "macos")'.dependencies]
+objc2-foundation = { version = "0.3", features = ["NSProcessInfo", "NSString"] }

@@ -317,6 +317,21 @@ fn guardar_ajustes(app: AppHandle, nombre: String, hora: u32, minuto: u32, modo:
     }
 }
 
+// En Mac, una app en segundo plano y sin ventanas puede quedar "dormida" (App Nap) y
+// mirar la hora tarde. Esto le pide al sistema que la deje despierta (sin impedir que
+// el Mac entre en reposo).
+#[cfg(target_os = "macos")]
+fn sin_siesta() {
+    use objc2_foundation::{NSActivityOptions, NSProcessInfo, NSString};
+    let motivo = NSString::from_str("Mostrar el amanecer a la hora elegida");
+    #[allow(unused_unsafe)]
+    let actividad = unsafe {
+        NSProcessInfo::processInfo()
+            .beginActivityWithOptions_reason(NSActivityOptions::UserInitiatedAllowingIdleSystemSleep, &motivo)
+    };
+    std::mem::forget(actividad); // debe durar toda la vida de la app
+}
+
 // ---------- Arranque ----------
 
 pub fn run() {
@@ -333,7 +348,10 @@ pub fn run() {
         ])
         .setup(|app| {
             #[cfg(target_os = "macos")]
-            app.set_activation_policy(tauri::ActivationPolicy::Accessory); // sin icono en el Dock
+            {
+                app.set_activation_policy(tauri::ActivationPolicy::Accessory); // sin icono en el Dock
+                sin_siesta();
+            }
 
             let h = app.handle().clone();
             let ver = MenuItem::with_id(app, "racha", "Ver mi racha", true, None::<&str>)?;
