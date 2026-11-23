@@ -17,14 +17,14 @@ Esta web se llama GitHub y es donde se guardan muchos programas gratuitos. **No 
 ## ⬇️ Descargar
 
 <p align="center">
-  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_universal.dmg"><img src="https://img.shields.io/badge/Descargar_para-Mac-3d6b52?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para Mac" height="44"></a>
+  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.1.0_universal.dmg"><img src="https://img.shields.io/badge/Descargar_para-Mac-3d6b52?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para Mac" height="44"></a>
   &nbsp;
-  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_x64-setup.exe"><img src="https://img.shields.io/badge/Descargar_para-Windows-3d6b52?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows" height="44"></a>
+  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.1.0_x64-setup.exe"><img src="https://img.shields.io/badge/Descargar_para-Windows-3d6b52?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows" height="44"></a>
   &nbsp;
-  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_amd64.AppImage"><img src="https://img.shields.io/badge/Descargar_para-Linux-3d6b52?style=for-the-badge&logo=linux&logoColor=white" alt="Descargar para Linux" height="44"></a>
+  <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.1.0_amd64.AppImage"><img src="https://img.shields.io/badge/Descargar_para-Linux-3d6b52?style=for-the-badge&logo=linux&logoColor=white" alt="Descargar para Linux" height="44"></a>
 </p>
 
-<p align="center">Si los botones no funcionan: <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_universal.dmg">Mac</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_x64-setup.exe">Windows</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.0.0_amd64.AppImage">Linux</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest">todas las descargas</a></p>
+<p align="center">Si los botones no funcionan: <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.1.0_universal.dmg">Mac</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.1.0_x64-setup.exe">Windows</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest/download/alba_1.1.0_amd64.AppImage">Linux</a> · <a href="https://github.com/nestorbaruque/alba/releases/latest">todas las descargas</a></p>
 
 La descarga empieza sola y el archivo va a tu carpeta **Descargas**. Sirve para cualquier Mac, con chip Apple o Intel.
 
